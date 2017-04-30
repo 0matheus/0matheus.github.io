@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://0matheus.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Matheus Lino
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Meu cantinho pessoal na internet" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -21,14 +21,14 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "0matheus.c.l@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket:
+  bitbucket: "0matheus"
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
-  google_plus:
+  github: "0matheus"
+  google_plus: "118127131242667552640"
   instagram:
   linkedin:  # Full URL
   pinterest:
@@ -37,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter:
   wordpress:
   youtube:
 
