@@ -1,0 +1,5 @@
+---
+title: Amazon WS
+layout: post
+---
+Aprenda um pouco sobre mais sobre [Amazon WS](https://aws.amazon.com/pt/)

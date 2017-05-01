@@ -1,5 +1,0 @@
----
-title: dois
-layout: post
----
-funcionasss
